@@ -19,7 +19,8 @@ Creatred users
 - dev.user
 - audit.user
  Users were created using the same process to represent different roles within the organization with manually defined secure password.
-  
+  <img width="975" height="829" alt="image" src="https://github.com/user-attachments/assets/a63cbf76-0504-4500-a26c-c37a50a04e18" />
+
 2.Group Creation
 Created security Groups
 -	Admin
