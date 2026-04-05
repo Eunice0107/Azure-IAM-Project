@@ -3,9 +3,13 @@ This project demonstrates the implementation of Identity and Access Management (
 
 Objectives
 •	Create and manage users
+
 •	Organize users into group
+
 •	Assign roles based on job responsibilities 
+
 •	Apply least privilege to reduce security risks
+
 Project Steps
 
 1.User Creation 
