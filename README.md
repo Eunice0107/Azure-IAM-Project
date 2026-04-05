@@ -21,6 +21,7 @@ Created security Groups
 -	Developers
 -	Auditors
 Security groups were created (Admins, Developers, Auditors) with clear descriptions to define their purpose and improvement
+
 3.Assigning User to Group
 •	Admin-Admins
 •	Developer-Developrs
@@ -32,13 +33,16 @@ Roles were assigned at the subscription Level.
 •	Admins-Owner (Full access)
 •	Developers- Contributor (manage resources only)
 •	Auditors-Reader (view-only access)
+
 5.Security Implementation 
 Least Privilege
 Access was granted based on the principle of least privilege ensuring users only have the permissions necessary to perform their roles.
+
 6.Key Skills Demonstrated 
 -	Identity and Access Management (IAM)
 -	Role-Based Access Control (RBAC)
 -	Azure user and Group management 
 -	Security best practices 
+
 7.Conculsion
-This project demonstrates practical implementing of secure user and access management in a cloud environment, reflecting real-world enterprise practices 
+This project demonstrates practical implementing of secure user and access management in a cloud environment, reflecting real-world enterprise practices. 
