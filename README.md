@@ -2,6 +2,7 @@
 This project demonstrates the implementation of Identity and Access Management (IAM) using Microsoft Azure. the goal was to securely manage user identities and control to resources using Role-Based Access Control (RBAC) and the principle of least Privilege.
 
 Objectives
+
 •	Create and manage users
 
 •	Organize users into group
