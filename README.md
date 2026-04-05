@@ -7,6 +7,7 @@ Objectives
 •	Assign roles based on job responsibilities 
 •	Apply least privilege to reduce security risks
 Project Steps
+
 1.User Creation 
 Creatred users
 - admin.user
